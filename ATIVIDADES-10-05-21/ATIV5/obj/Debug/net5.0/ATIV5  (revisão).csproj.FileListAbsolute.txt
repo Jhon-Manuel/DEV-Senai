@@ -1,0 +1,16 @@
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ATIV5  (revisão).exe
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ATIV5  (revisão).deps.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ATIV5  (revisão).runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ATIV5  (revisão).runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ATIV5  (revisão).dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ref\ATIV5  (revisão).dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\bin\Debug\net5.0\ATIV5  (revisão).pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ref\ATIV5  (revisão).dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Ativ\10-05-21\ATIV5  (revisão)\obj\Debug\net5.0\ATIV5  (revisão).genruntimeconfig.cache

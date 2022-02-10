@@ -1,0 +1,16 @@
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\Atributos e Metodos.exe
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\Atributos e Metodos.deps.json
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\Atributos e Metodos.runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\Atributos e Metodos.runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\Atributos e Metodos.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\ref\Atributos e Metodos.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\bin\Debug\net5.0\Atributos e Metodos.pdb
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\ref\Atributos e Metodos.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.pdb
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Atributos e Metodos\obj\Debug\net5.0\Atributos e Metodos.genruntimeconfig.cache

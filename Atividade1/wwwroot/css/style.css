@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+    width: 1440px;
+}
+
+header .container {
+    /* background-color: yellowgreen; */
+    height: 192px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    background-image: url(/assets/logo.png);
+    width: 155px;
+    height: 70px;
+    /* background-color: aqua; */
+}
+
+ul {
+    width: 352px;
+    /* background-color: tomato; */
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+.banner {
+    width: 1440px;
+    height: 500px;
+    background-color: grey;
+}
+
+.texto-banner {
+    height: 388px;
+    /* background-color: bisque; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.texto-banner h1 {
+    color: #660027;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+}
+
+.container-article {
+    margin: 50px 0 50px 0;
+    width: 1440px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.artigo {
+    height: 410px;
+    width: 250px;
+}
+
+.img-artigo {
+    height: 150px;
+    width: 250px;
+    background-color: blue;
+}
+
+.texto-artigo {
+    height: 260px;
+    width: 250px;
+    padding: 20px 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    border: 1px solid #9E9B9B;
+}
+
+.texto-artigo h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #660027;
+}
+
+.link-artigo {
+    width: 128px;
+    height: 42px;
+    border: 2px solid #660027;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 5d00;
+    color: #660027;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 180px;
+    background-color: #660027;
+
+}
+.caixa{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    text-align: center;
+    
+    color: white;
+    font-size: 18px;
+    height: 100px;
+    width: 327px;
+}
+/*contato*/
+
+.box-cadastro {
+    width: 1103px;
+    height: 700px;
+    background-color: wheat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.cadastro {
+    background-color: blue;
+    width: 400px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-color: #660027 10px;
+}
+
+.dados {
+    width: 400px;
+    height: 62px;
+}
+
+input {
+    width: 100%;
+    height: 42px;
+}
+
+.contato {
+    width: 400px;
+    height: 700px;
+    background-color: #660027;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-contato {}
+/*feminino*/
+.img-mocas1

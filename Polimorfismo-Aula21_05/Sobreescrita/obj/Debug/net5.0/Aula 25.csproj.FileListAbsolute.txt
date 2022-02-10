@@ -1,0 +1,16 @@
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\Aula 25.exe
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\Aula 25.deps.json
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\Aula 25.runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\Aula 25.runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\Aula 25.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\ref\Aula 25.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\bin\Debug\net5.0\Aula 25.pdb
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\ref\Aula 25.dll
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.pdb
+C:\Users\Jhon Cristian\OneDrive\Área de Trabalho\Aula 25\obj\Debug\net5.0\Aula 25.genruntimeconfig.cache

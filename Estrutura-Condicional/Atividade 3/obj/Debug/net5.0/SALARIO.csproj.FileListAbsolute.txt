@@ -1,0 +1,16 @@
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\SALARIO.exe
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\SALARIO.deps.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\SALARIO.runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\SALARIO.runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\SALARIO.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\ref\SALARIO.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\bin\Debug\net5.0\SALARIO.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\ref\SALARIO.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\SALARIO\obj\Debug\net5.0\SALARIO.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+Programa{
+
+    função inicial(){
+
+         escreva("Quantos anos você tem?");
+            var idadePessoa = leia());
+
+            var anoSemana = 12 * idadePessoa;
+            escreva("Em meses, você tem:" + anoSemana);
+
+            var anoDias = 365 * idadePessoa;
+            escreva("Em dias, você tem: " + anoDias);
+
+            var anoHora = 8760 * idadePessoa;
+            escreva("Em horas, você tem: " + anoHora);
+
+            var anoMin = 525600 * idadePessoa;
+            escreva("Em minutos, você tem: " + anoMin + "/n");
+        
+        
+    }
+}

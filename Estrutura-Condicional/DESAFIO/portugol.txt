@@ -1,0 +1,25 @@
+programa
+{
+    função inicio()
+    {
+        escreva("Qual é a sua idade:?")
+        leia (idade)
+
+         se(idade >= 5 && idade <=7){
+            escreva("Categoria: Infantil A" );
+
+        }se nao (idade >= 8 && idade <=10){
+            escreva("Categoria: Infantil B" );
+
+        } se se não (idade >= 11 && idade<=13){
+            escreva("Categoria: Juvenil A" );
+
+        }se se não(idade >=14 && idade<=17){
+            escreva("Categoria: Juvenil B" );
+
+        }se se não(idade>=18){
+            escreva("Categoria: Sênior" );
+
+        }
+    }
+}

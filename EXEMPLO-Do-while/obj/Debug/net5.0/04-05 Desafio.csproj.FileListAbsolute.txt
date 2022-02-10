@@ -1,0 +1,16 @@
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\04-05 Desafio.exe
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\04-05 Desafio.deps.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\04-05 Desafio.runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\04-05 Desafio.runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\04-05 Desafio.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\ref\04-05 Desafio.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\bin\Debug\net5.0\04-05 Desafio.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\ref\04-05 Desafio.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\04-05 Desafio\obj\Debug\net5.0\04-05 Desafio.genruntimeconfig.cache

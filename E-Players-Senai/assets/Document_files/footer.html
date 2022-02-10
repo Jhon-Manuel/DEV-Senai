@@ -1,0 +1,92 @@
+
+<!-- saved from url=(0033)http://127.0.0.1:5500/footer.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="./style.css">
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></head>
+
+<body data-new-gr-c-s-check-loaded="14.1007.0" data-gr-ext-installed=""><div class="footer">
+    <div class="container_footer">
+        <div class="info_fo">
+            <h2> Links Úteis</h2>
+            <nav>
+                <ul>
+                    <br>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Regra de Utilização</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Suporte</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Central de Ajuda</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+
+
+
+        <div class="info_fo">
+            <h2>Páginas</h2>
+            <nav>
+                <ul>
+                    <br>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Início</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Campeonatos</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Notícias</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Resultados</a></li>
+                    <li><a href="http://127.0.0.1:5500/footer.html">Login/Cadastro</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="e-players">
+            <img src="./logo.svg" alt="Logo-e-players">
+        </div>
+        <div class="login_fo">
+
+            Faça parte do nosso team, assine nossa newsletter
+            <div class="input_fo">
+                <input type="email" name="" id="">
+                <a href="http://127.0.0.1:5500/footer.html">Cadastrar</a>
+            </div>
+            <div class="redes_fo">
+                <span>Siga nos em:</span>
+                <img src="./instagram.png" alt="instagram">
+                <img src="./facebook.png" alt="facebook">
+                <img src="./youtube.png" alt="youtube">
+            </div>
+        </div>
+    </div>
+</div></body></html>

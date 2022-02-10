@@ -1,0 +1,24 @@
+programa{
+
+
+
+    função inicio(){
+
+
+        escreva("Nome:");
+        leia();
+            
+        escreva("Salário atual: ");
+        var salario = leia ();
+
+        var aumentoSalario = salario + (salario * 30/100);
+        
+        se(salario <= 500){
+            escreva (nome + "Aumento salárial para:" + aumentoSalario.("C") );
+            
+        }se não{
+            escreva (nome + " seus dados não coincidem com os requisitos");
+        }
+
+
+}

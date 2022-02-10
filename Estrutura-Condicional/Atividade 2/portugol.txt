@@ -1,0 +1,15 @@
+programa{
+
+    função inicial()
+    {
+        escreva ("Em que ano você nasceu?");
+            var anoNasc = leia();
+
+            var anoPessoa = ano atual - anoNasc;
+            escreva ("Você tem: " + anoPessoa);
+            var multiplicação = anoPessoa * 52;
+
+            leia ("Você tem :" + multiplicação + " semanas de vida");
+
+    }
+}

@@ -1,0 +1,32 @@
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\CALCULO_IDADE.exe
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\CALCULO_IDADE.deps.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\CALCULO_IDADE.runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\CALCULO_IDADE.runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\ref\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\bin\Debug\net5.0\CALCULO_IDADE.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\ref\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\CALCULO_IDADE\obj\Debug\net5.0\CALCULO_IDADE.genruntimeconfig.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\CALCULO_IDADE.exe
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\CALCULO_IDADE.deps.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\CALCULO_IDADE.runtimeconfig.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\CALCULO_IDADE.runtimeconfig.dev.json
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\ref\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\bin\Debug\net5.0\CALCULO_IDADE.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.csprojAssemblyReference.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.AssemblyInfoInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.AssemblyInfo.cs
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\ref\CALCULO_IDADE.dll
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.pdb
+C:\Users\Jhon Cristian\OneDrive\Documentos\Senai- 1D Tarde\Estruturas Consicionais\Atividade 1\obj\Debug\net5.0\CALCULO_IDADE.genruntimeconfig.cache
